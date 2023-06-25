@@ -1,2 +1,2 @@
-# LazyReumeBuilder
+# LazyResumeBuilder
 Created with CodeSandbox
